@@ -1,0 +1,11 @@
+
+.containers{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+header{
+    height: 600px;
+    display: flex;
+    background-image: url('../images/background-pattern-header.jpg')
+}
